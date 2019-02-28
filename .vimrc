@@ -2,8 +2,8 @@
 set nonumber
 set relativenumber
 
-"turn on ctrlp fuzzy file matching
-set runtimepath^=~/.vim/bundle/ctrlp.vim
+"turn on ctrlp fuzzy file matching commented out for git repository for now
+"set runtimepath^=~/.vim/bundle/ctrlp.vim
 
 "disable the arrow keys to practice the vim way!
 noremap <Up> <Nop>
