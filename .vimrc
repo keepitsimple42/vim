@@ -2,6 +2,9 @@
 set nonumber
 set relativenumber
 
+"turn on syntax highlighting - since this doesnt always seem to happen on Pi
+syntax on
+
 "turn on ctrlp fuzzy file matching commented out for git repository for now
 "set runtimepath^=~/.vim/bundle/ctrlp.vim
 
